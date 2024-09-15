@@ -1,4 +1,4 @@
-# 🎨 **ArtoraAI** - *Create and Share AI Art with the Community!* 🖌️🤖
+# 🎨 **ArtoraAI** - *Generate and Share AI Images with the Community!* 🖌️🤖
 
 Welcome to **ArtoraAI**! This project allows users to generate beautiful AI-driven artwork and share it with the **ArtoraAI community**. While it's not a full social media platform, you can still contribute and explore an inspiring gallery of AI-generated creations. Whether you're an artist or an AI enthusiast, **ArtoraAI** offers a unique place to explore creativity! 🚀✨
 
